@@ -32,10 +32,6 @@
 
 </div>
 
-
-<br>
-<br> 
-<br>
 <br>
 <br>
 <br> 
@@ -55,6 +51,10 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/stefanyparaiso/stefanyparaiso/assets/110870070/b59cd5e5-9005-4453-94e0-75c952bbd3ac">
 
+<br>
+<br>
+<br>
+<br>
 
 
 <div align="center">
